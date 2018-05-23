@@ -11,7 +11,7 @@
 
 ## data science stuff
 
-[ ] [intro to python for data science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+- [ ] [intro to python for data science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 
 ## get better at javascript
 
