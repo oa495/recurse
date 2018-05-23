@@ -7,7 +7,7 @@
 - [ ] context-please browser extension
 - [ ] gender specific (python, data analysis)
 - [ ] africaTech (python, data analysis)
-
+- [ ] something with tensorflow
 
 ## data science stuff
 
