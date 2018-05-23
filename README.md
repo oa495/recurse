@@ -11,6 +11,7 @@
 
 ## data science stuff
 
+[ ] [intro to python for data science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 
 ## get better at javascript
 
@@ -18,7 +19,7 @@
 - [ ] [javascript design patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 - [ ] [you don't know js](https://github.com/getify/You-Dont-Know-JS)
 - [ ] [superhero.js](http://superherojs.com/#resources)
-- [ ][eloquent js](http://eloquentjavascript.net/)
+- [ ] [eloquent js](http://eloquentjavascript.net/)
 
 ## browser stuff
 
@@ -32,12 +33,12 @@
 
 ### ⚡ Performance
 
-- [perf.rocks articles](http://perf.rocks/articles/)
+- [ ] [perf.rocks articles](http://perf.rocks/articles/)
 - [ ] [Designing for performance](http://designingforperformance.com/)
 - [ ] [Designing for Mobile Performance (Brain Food)](https://www.awwwards.com/brainfood-mobile-performance-vol3.pdf)
 - [ ] [Fast By Default: Modern Loading Best Practices](https://www.youtube.com/watch?v=_srJ7eHS3IM)
 - [ ] [Webpack Performance Guide](https://developers.google.com/web/fundamentals/performance/webpack/)
-- [] [JavaScript Start-up Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/javascript-startup-optimization/)
+- [ ] [JavaScript Start-up Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/javascript-startup-optimization/)
 - [ ] [Size Limit: Make the Web lighter](https://evilmartians.com/chronicles/size-limit-make-the-web-lighter)
 - [ ] [DevTool Layers Panel](https://www.youtube.com/watch?v=6je49J67TQk&list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr&index=1)
 - [ ] [Improving Web App Performance With the Chrome DevTools Timeline and Profiles](https://addyosmani.com/blog/performance-optimisation-with-timeline-profiles/)
