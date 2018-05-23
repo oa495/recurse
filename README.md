@@ -13,6 +13,7 @@
 
 
 ## get better at javascript
+
 - [ ] [Robust Client-Side JavaScript](https://molily.de/robust-javascript)
 - [ ] [javascript design patterns](https://www.udacity.com/course/javascript-design-patterns--ud989)
 - [ ] [you don't know js](https://github.com/getify/You-Dont-Know-JS)
@@ -30,6 +31,7 @@
 - [ ] [What Every Frontend Developer Should Know About Webpage Rendering](http://frontendbabel.info/articles/webpage-rendering-101)
 
 ### ⚡ Performance
+
 - [perf.rocks articles](http://perf.rocks/articles/)
 - [ ] [Designing for performance](http://designingforperformance.com/)
 - [ ] [Designing for Mobile Performance (Brain Food)](https://www.awwwards.com/brainfood-mobile-performance-vol3.pdf)
