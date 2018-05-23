@@ -2,11 +2,11 @@
 
 ## projects to finish at some point
 
-- [ ] useless anonymizer in python / openframeworks
+- [ ] useless anonymizer in python / openframeworks (involves opencv, face / object detection
 - [ ] learn how to make a firefox extension
 - [ ] context-please browser extension
-- [ ] gender specific
-- [ ] africaTech
+- [ ] gender specific (python, data analysis)
+- [ ] africaTech (python, data analysis)
 
 
 ## data science stuff
