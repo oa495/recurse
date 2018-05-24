@@ -48,3 +48,4 @@
 
 - [ ] [Programming Design Systems](https://programmingdesignsystems.com/introduction)
 - [ ] [Resilient web design](https://resilientwebdesign.com/)
+- [ ] [web assembly to js](https://hacks.mozilla.org/2017/09/bootcamps-webassembly-and-computer-vision/)
