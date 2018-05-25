@@ -2,9 +2,7 @@
 
 ## projects to finish at some point
 
-- [ ] useless anonymizer in python / openframeworks (involves opencv, face / object detection
-- [ ] learn how to make a firefox extension
-- [ ] context-please browser extension
+- [ ] useless anonymizer in python / openframeworks (involves opencv, face / object detection)
 - [ ] gender specific (python, data analysis)
 - [ ] africaTech (python, data analysis)
 - [ ] something with tensorflow
@@ -12,6 +10,13 @@
 ## data science stuff
 
 - [ ] [intro to python for data science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+
+
+## miscellaneous
+
+- [ ] [Programming Design Systems](https://programmingdesignsystems.com/introduction)
+- [ ] [Resilient web design](https://resilientwebdesign.com/)
+- [ ] [web assembly to js](https://hacks.mozilla.org/2017/09/bootcamps-webassembly-and-computer-vision/)
 
 ## get better at javascript
 
@@ -43,9 +48,3 @@
 - [ ] [DevTool Layers Panel](https://www.youtube.com/watch?v=6je49J67TQk&list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr&index=1)
 - [ ] [Improving Web App Performance With the Chrome DevTools Timeline and Profiles](https://addyosmani.com/blog/performance-optimisation-with-timeline-profiles/)
 - [ ] [crash course in web performance](https://www.youtube.com/watch?v=7gtf47D_bu0&list=PL5jvCmjsPECB2mhJopSB-yryxO473JA1r&index=43&t=0s)
-
-## miscellaneous web
-
-- [ ] [Programming Design Systems](https://programmingdesignsystems.com/introduction)
-- [ ] [Resilient web design](https://resilientwebdesign.com/)
-- [ ] [web assembly to js](https://hacks.mozilla.org/2017/09/bootcamps-webassembly-and-computer-vision/)
