@@ -17,7 +17,7 @@
 - [ ] [Programming Design Systems](https://programmingdesignsystems.com/introduction)
 - [ ] [Resilient web design](https://resilientwebdesign.com/)
 - [ ] [web assembly to js](https://hacks.mozilla.org/2017/09/bootcamps-webassembly-and-computer-vision/)
-- [ ] [flood fill](https://en.wikipedia.org/wiki/Flood_fill)
+- [ ] [nlp in python](https://www.nltk.org/book/)
 
 ## get better at javascript
 
@@ -33,7 +33,7 @@
 - [ ] [Server Farm to Table](http://jenna.is/slides/server-farm-to-table-annotated.pdf)
 - [ ] [Scrolling on the web: A primer](https://blogs.windows.com/msedgedev/2017/03/08/scrolling-on-the-web/)
 - [ ] [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) & [loupe](http://latentflip.com/loupe)
-- [ ] [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork)
+- [ ] [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork) [How Browsers work pt 2](http://taligarsiel.com/Projects/howbrowserswork1.htm#The_rendering_engine)
 - [ ] [Rendering: repaint, reflow/relayout, restyle](http://www.phpied.com/rendering-repaint-reflowrelayout-restyle)
 - [ ] [What Every Frontend Developer Should Know About Webpage Rendering](http://frontendbabel.info/articles/webpage-rendering-101)
 
@@ -49,3 +49,7 @@
 - [ ] [DevTool Layers Panel](https://www.youtube.com/watch?v=6je49J67TQk&list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr&index=1)
 - [ ] [Improving Web App Performance With the Chrome DevTools Timeline and Profiles](https://addyosmani.com/blog/performance-optimisation-with-timeline-profiles/)
 - [ ] [crash course in web performance](https://www.youtube.com/watch?v=7gtf47D_bu0&list=PL5jvCmjsPECB2mhJopSB-yryxO473JA1r&index=43&t=0s)
+
+## os dev
+[The little book about OS development](https://littleosbook.github.io/)
+[Introduction to Operating System for self taught web developer](https://hackernoon.com/introduction-to-operating-system-for-self-taught-web-developer-ba6d484398aa)
