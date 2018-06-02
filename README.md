@@ -18,6 +18,7 @@
 - [ ] [Resilient web design](https://resilientwebdesign.com/)
 - [ ] [web assembly to js](https://hacks.mozilla.org/2017/09/bootcamps-webassembly-and-computer-vision/)
 - [ ] [nlp in python](https://www.nltk.org/book/)
+- [ ] [intro to ml](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework)
 
 ## get better at javascript
 
