@@ -7,6 +7,14 @@
 - [ ] africaTech (python, data analysis)
 - [ ] something with tensorflow
 
+## p2p
+
+[p2p workshop](https://mafintosh.github.io/p2p-workshop)
+[get dat](https://try-dat.com/)
+[building distributed offline websites](https://www.elastic.co/videos/building-distributed-offline-website-by-mathias-buus)
+[p2p chat app](https://www.elastic.co/videos/how-to-write-a-p2p-chat-app-in-nodejs-by-mathias-buus)
+[beaker browser tutorials](https://beakerbrowser.com/docs/tutorials/)
+
 ## data science stuff
 
 - [ ] [intro to python for data science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
