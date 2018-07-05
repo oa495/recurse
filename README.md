@@ -7,17 +7,21 @@
 - [ ] africaTech (python, data analysis)
 - [ ] something with tensorflow
 
-## data science stuff
+## p2p
 
-- [ ] [intro to python for data science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
-
+- [ ] [p2p workshop](https://mafintosh.github.io/p2p-workshop)
+- [ ] [get dat](https://try-dat.com/)
+- [ ] [building distributed offline websites](https://www.elastic.co/videos/building-distributed-offline-website-by-mathias-buus)
+- [ ] [p2p chat app](https://www.elastic.co/videos/how-to-write-a-p2p-chat-app-in-nodejs-by-mathias-buus)
+- [ ] [beaker browser tutorials](https://beakerbrowser.com/docs/tutorials/)
+- [ ] [building a peer-to-peer app](https://medium.com/blue-link-labs/building-a-decentralized-peer-to-peer-photos-app-with-beaker-and-dat-c8a470202b4c)
 
 ## miscellaneous
 
 - [ ] [Programming Design Systems](https://programmingdesignsystems.com/introduction)
 - [ ] [Resilient web design](https://resilientwebdesign.com/)
-- [ ] [web assembly to js](https://hacks.mozilla.org/2017/09/bootcamps-webassembly-and-computer-vision/)
 - [ ] [nlp in python](https://www.nltk.org/book/)
+- [ ] [intro to ml](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework)
 
 ## get better at javascript
 
@@ -51,5 +55,5 @@
 - [ ] [crash course in web performance](https://www.youtube.com/watch?v=7gtf47D_bu0&list=PL5jvCmjsPECB2mhJopSB-yryxO473JA1r&index=43&t=0s)
 
 ## os dev
-[The little book about OS development](https://littleosbook.github.io/)
-[Introduction to Operating System for self taught web developer](https://hackernoon.com/introduction-to-operating-system-for-self-taught-web-developer-ba6d484398aa)
+- [ ] [The little book about OS development](https://littleosbook.github.io/)
+- [ ] [Introduction to Operating System for self taught web developer](https://hackernoon.com/introduction-to-operating-system-for-self-taught-web-developer-ba6d484398aa)
